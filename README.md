@@ -26,7 +26,7 @@ CSE Undergrad at Harcourt Butler Technical University, Kanpur
 <a href="https://www.linkedin.com/in/kushagra-gupta-a760bb11a/">
   <img src="https://user-images.githubusercontent.com/107032653/192267485-9a48cad6-4028-47ac-a62f-60f9739bde53.png">
 </a>
-<a href="https://www.linkedin.com/in/kushagra-gupta-a760bb11a/">
+<a href="https://www.instagram.com/kushagra__gupta____/">
   <img src="https://user-images.githubusercontent.com/107032653/192267711-16bb4246-549a-477c-942f-a675d25d60bf.png">
 </a>
 
