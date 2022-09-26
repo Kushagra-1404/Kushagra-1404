@@ -1,4 +1,4 @@
-👋 Hi, My Name is Kushagra Gupta
+# Hi 👋, My Name is Kushagra Gupta
 CSE Undergrad at Harcourt Butler Technical University, Kanpur
 - 🌍 I’m based in India.
 - 🧠 I'm a Web Devloper.
