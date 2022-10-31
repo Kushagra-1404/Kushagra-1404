@@ -79,7 +79,7 @@ CSE Undergrad at Harcourt Butler Technical University, Kanpur
 </a>
 
 <a href="https://reactjs.org/">
-  <img src="https://repository-images.githubusercontent.com/282396938/4cafeaa0-e5e9-4814-bab8-c0baeac75474" height=50rem>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDcPuqnigejRsHaePtBj8m9ZOYSMZ0vbSrO8fIaEnj1D18_5h5HwXmbYF3GU1PKaWbijA&usqp=CAU" height=50rem>
 </a>
 
 # Socials
