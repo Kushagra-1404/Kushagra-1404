@@ -78,6 +78,10 @@ CSE Undergrad at Harcourt Butler Technical University, Kanpur
   <img src="https://user-images.githubusercontent.com/107032653/192273796-049c95b3-9f89-4c20-889e-937436a9fa36.png" height=50rem>
 </a>
 
+<a href="https://reactjs.org/">
+  <img src="https://repository-images.githubusercontent.com/282396938/4cafeaa0-e5e9-4814-bab8-c0baeac75474" height=50rem>
+</a>
+
 # Socials
 <a href="https://www.linkedin.com/in/kushagra-gupta-a760bb11a/">
   <img src="https://user-images.githubusercontent.com/107032653/192267485-9a48cad6-4028-47ac-a62f-60f9739bde53.png" height=50rem>
