@@ -2,7 +2,7 @@
 CSE Undergrad at Harcourt Butler Technical University, Kanpur
 - 🌍 I’m based in India.
 - 🧠 I'm a Full Stack Web Devloper.
-- 🌱 I’m currently focusing on learning DSA and CP.
+- 🌱 I’m proficient in Data Structures and Algorithms (DSA).
 - ✉️ You can contact me at @guptakushagra1404@gmail.com
 - 🤝  I'm open to collaborating on Websites and Web applications.
 
